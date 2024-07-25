@@ -1,2 +1,2 @@
 # html-portfolio
-my basic web portfolio
+a very basic sample web portfolio of mine.
